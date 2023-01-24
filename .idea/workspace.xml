@@ -4,18 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8348e7-67ef-48a5-8aaa-fcd38549427b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/M152Final.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/M152_Surface_Laptop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/laptop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/touchscreen.jpg" afterDir="false" />
+    <list default="true" id="2c8348e7-67ef-48a5-8aaa-fcd38549427b" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/assets/MS_Teams_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Windows-11-Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/microsoft365.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/xbox.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/faq.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/kontakt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/surface3.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/surface3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/ueberuns.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/ueberuns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/video.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/video.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,8 +80,16 @@
       <option name="presentableId" value="Default" />
       <updated>1674493045922</updated>
       <workItem from="1674493047072" duration="13539000" />
-      <workItem from="1674546515442" duration="4574000" />
+      <workItem from="1674546515442" duration="7798000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1674551550667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674551550667</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,5 +106,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
 </project>
